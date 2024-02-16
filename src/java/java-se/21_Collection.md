@@ -132,7 +132,7 @@ public class Node<T> {
 
 
 
-<img src="img/集合类.jpg"> 
+<img src="./img/集合类.jpg"> 
 
 Java中的集合类分为两大类：一类是实现了Collection接口的类，另一类是实现了Map接口的类。
 
@@ -209,7 +209,7 @@ CRUD boy。
 
 
 
-<img src="img/集合类.jpg">
+<img src="./img/集合类.jpg">
 
 
 
@@ -802,7 +802,7 @@ for (String string : strings) {
 
 # `List`接口
 
-<img src="img/集合类-1679908203637-1.jpg">
+<img src="./img/集合类-1679908203637-1.jpg">
 
 学习目标
 

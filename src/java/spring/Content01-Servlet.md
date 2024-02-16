@@ -168,7 +168,7 @@ packaging = war
 
 因为已经有了，Tomcat中已经有了这个依赖，在tomcat的lib目录中有一个jar包servlet-api.jar
 
-<center><img src="image/Content01-Servlet/image-20230824170722846.png" alt="image-20230824170722846" style="zoom: 50%;" /></center>
+<center><img src="./image/Content01-Servlet/image-20230824170722846.png" alt="image-20230824170722846" style="zoom: 50%;" /></center>
 
 如果硬是要打包进去，有可能会发生冲突，导致未知的错误
 

@@ -36,7 +36,7 @@ class是最常见的关键字之一，它用来表示当前代码中定义了一
 
 **分类**
 
-<img src="img/image-20220810104726770.png" alt="image-20220810104726770"  />
+<img src="./img/image-20220810104726770.png" alt="image-20220810104726770"  />
 
 
 
@@ -1301,15 +1301,15 @@ s1 += 1;
 
 &、| 、^（与、或、异或）位运算符
 
-<img src="img/202112281642097.png" alt="与、或、异或位运算符" style="zoom:50%;" />
+<img src="./img/202112281642097.png" alt="与、或、异或位运算符" style="zoom:50%;" />
 
 `~`取反位运算符
 
-<img src="img/202112281647215.png" alt="取反位运算符" style="zoom:50%;" />
+<img src="./img/202112281647215.png" alt="取反位运算符" style="zoom:50%;" />
 
 `^`异或位运算符
 
-<img src="img/202112281648555.png" alt="异或运算符" style="zoom:50%;" />
+<img src="./img/202112281648555.png" alt="异或运算符" style="zoom:50%;" />
 
 ---
 
@@ -1895,7 +1895,7 @@ for(初始化语句 ; 条件判断语句; 循环控制语句) {
 
 
 
-<img src="img/202112282332838.png" alt="for循环流程图" style="zoom: 33%;" />
+<img src="./img/202112282332838.png" alt="for循环流程图" style="zoom: 33%;" />
 
 **几个使用的注意事项：**
 
@@ -1995,7 +1995,7 @@ do{
    2. false，循环终止。
 5. 再次执行布尔表达式进行条件判断，开始循环。直到布尔表达式的结果是false，循环终止。
 
-<img src="img/202112282345538.png" alt="do...while循环流程图" style="zoom: 50%;" />
+<img src="./img/202112282345538.png" alt="do...while循环流程图" style="zoom: 50%;" />
 
  <font color=red>**注意事项：**</font>
 
