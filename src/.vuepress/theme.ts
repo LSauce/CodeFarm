@@ -9,7 +9,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "Index Team",
     url: "https://mister-hope.com",
   },
 
@@ -17,7 +17,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "LSauce/JavaLearnCode",
 
   docsDir: "src",
 
@@ -32,7 +32,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    description: "一个前端开发者",
+    description: "Index Team",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",

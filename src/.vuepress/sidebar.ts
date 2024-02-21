@@ -19,10 +19,10 @@ export default sidebar({
       children: "structure",
       collapsible: true
     },{
-      text: "Spring",
+      text: "JavaEE_Spring",
       icon: "laptop-code",
-      prefix: "java/spring/",
-      link: "java/spring/",
+      prefix: "java/javaee_spring/",
+      link: "java/javaee_spring/",
       children: "structure",
       collapsible: true
     },
