@@ -26,6 +26,14 @@ export default sidebar({
       children: "structure",
       collapsible: true
     },
+    {
+      text: "微服务",
+      icon: "laptop-code",
+      prefix: "java/micro-service/",
+      link: "java/micro-service/",
+      children: "structure",
+      collapsible: true
+    },
 
   ],
 });
